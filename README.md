@@ -1,2 +1,2 @@
 # Varmole
-Use varmole to do structral classification
+Use varmole to do structral brain connectivity data classification
